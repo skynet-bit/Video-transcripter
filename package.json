@@ -1,0 +1,49 @@
+{
+  "name": "video-transcripter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skynet-bit/Video-transcripter.git"
+  },
+  "keywords": [
+    "video",
+    "webspeech",
+    "ai",
+    "analyze"
+  ],
+  "author": "S Aravindh Akshay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skynet-bit/Video-transcripter/issues"
+  },
+    "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
